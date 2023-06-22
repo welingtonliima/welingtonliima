@@ -6,7 +6,7 @@ Tenho 28 anos, moro em Brasília/DF e sou um **entusiasta de tecnologia 💻 �
 ## ⚡️ Sobre mim
 
 - 🔭 Trabalho como Administrador de Dados na PagSeguro
-- 🌱 Atualmente estou aprendendo Angular e Java 
+- 🌱 Atualmente estou aprendendo ferramentas de Engenharia de Dados (Airflow, Kafka, Spark) 
 <br/><br/>
 
 ## ⚙️ Tecnologia e Ferramentas
